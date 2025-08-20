@@ -6,6 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/phuocnguyen0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phuocnguyen0611" height="30" width="40" /></a>
+  <a href="mailto:mr.thienphuocfat@gmail.com">
+    <img align="center" src="https://camo.githubusercontent.com/ba3e0883ccd85ffe12475475a8a1c102a2da3e62741cd408dd32ce3ea03dbd5b/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3235362669643d717952704167676e56307a4826666f726d61743d706e67" alt="Gmail" height="40" width="40" data-canonical-src="https://img.icons8.com/?size=256&amp;id=qyRpAggnV0zH&amp;format=png" style="max-width: 100%; height: auto; max-height: 40px;">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
