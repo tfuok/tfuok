@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **dotnet and microservices**
 
-- 📫 How to reach me **phuoc0611work@gmail.com**
+- 📫 How to reach me **phuoc.nguyen11460@gmail.com**
 
 - ⚡ Fun fact **I love foods :v**
 
